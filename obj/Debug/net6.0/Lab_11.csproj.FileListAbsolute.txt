@@ -1,0 +1,260 @@
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.csproj.AssemblyReference.cache
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.GeneratedMSBuildEditorConfig.editorconfig
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.AssemblyInfoInputs.cache
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.AssemblyInfo.cs
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.csproj.CoreCompileInputs.cache
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Lab_11
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Lab_11.deps.json
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Lab_11.runtimeconfig.json
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Lab_11.pdb
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/refint/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.pdb
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.genruntimeconfig.cache
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/ref/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Azure.Core.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Azure.Identity.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Memory.Data.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/crimson/Desktop/CSharp/Lab_11/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/crimson/Desktop/CSharp/Lab_11/obj/Debug/net6.0/Lab_11.csproj.CopyComplete
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Lab_11
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Lab_11.deps.json
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Lab_11.runtimeconfig.json
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Lab_11.pdb
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Azure.Core.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Azure.Identity.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Memory.Data.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.AssemblyReference.cache
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.GeneratedMSBuildEditorConfig.editorconfig
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.AssemblyInfoInputs.cache
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.AssemblyInfo.cs
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.CoreCompileInputs.cache
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.CopyComplete
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/refint/Lab_11.dll
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.pdb
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/Lab_11.genruntimeconfig.cache
+/home/crimson/Desktop/CSharp/Lab_11_1/obj/Debug/net6.0/ref/Lab_11.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Lab_11
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Lab_11.deps.json
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Lab_11.runtimeconfig.json
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Lab_11.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Lab_11.pdb
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Azure.Core.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Azure.Identity.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.AssemblyReference.cache
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.AssemblyInfoInputs.cache
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.AssemblyInfo.cs
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.csproj.CopyComplete
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/refint/Lab_11.dll
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.pdb
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/Lab_11.genruntimeconfig.cache
+/Users/ksenia55/Desktop/lab11/Lab_11_1/obj/Debug/net6.0/ref/Lab_11.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Lab_11.exe
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Lab_11.deps.json
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Lab_11.runtimeconfig.json
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Lab_11.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Lab_11.pdb
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.csproj.AssemblyReference.cache
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.AssemblyInfoInputs.cache
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.AssemblyInfo.cs
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.csproj.CopyComplete
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\refint\Lab_11.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.pdb
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\Lab_11.genruntimeconfig.cache
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\obj\Debug\net6.0\ref\Lab_11.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mi\Downloads\Telegram Desktop\lab11\Lab_11_1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
